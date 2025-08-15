@@ -3,7 +3,7 @@
 ### Execute pip install pillow
 ### Place two files [resize_all.py, resixe_all.bat] into the folder winth one image.
 
-###-- cm --     -- inch --
+### -- cm --     -- inch --
 ### (15, 20),   # 6x8 inch
 ### (25, 25),   # 10x10 inch
 ### (30, 30),   # 12x12 inch
@@ -17,7 +17,7 @@
 ### (50, 50),   # 20x20 inch
 ### (70, 70),   # 28x28 inch
 
-### After scrypt creates 3 folders with different approaches to resizing 
+### Scrypt creates 3 folders with different approaches to resizing 
 ### out:
 ### resize_scale(img)
 ### resize_crop(img)
