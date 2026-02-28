@@ -1,0 +1,2536 @@
+artist=KRS-One
+album=The Mix Tape
+track=Ova Here
+
+artist=Savage Garden
+album=Savage Garden (Original Version)
+track=To the Moon & Back
+
+artist=Brazen Barbie
+album=TOO BRAZEN
+track=En Route
+
+artist=Klavdia Petrivna
+album=Бережи мене
+track=Знайди мене
+
+artist=Klavdia Petrivna
+album=Їде дах
+track=Сонце, жара
+
+artist=Tame Impala
+album=Dracula (Remix)
+track=Dracula
+
+artist=The Weeknd
+album=After Hours
+track=After Hours
+
+artist=SLVG
+album=BELOW ZERO (Slowed + Reverb)
+track=BELOW ZERO (Slowed + Reverb)
+
+artist=SLVG
+album=BEYOND THE VEIL
+track=BELOW ZERO
+
+artist=Fleetwood Mac
+album=Rumours (Super Deluxe)
+track=The Chain - 2004 Remaster
+
+artist=QMIIR
+album=TIKI TIKI
+track=TIKI TIKI
+
+artist=QMIIR
+album=TIKI TIKI
+track=TIKI TIKI - Slowed
+
+artist=OMA
+album=Bread 'n' Butter
+track=N.Y. State of Mind
+
+artist=Royal Blood
+album=Royal Blood
+track=Out of the Black
+
+artist=Royal Blood
+album=Royal Blood
+track=Figure It Out
+
+artist=Black Pistol Fire
+album=Black Pistol Fire
+track=Suffocation Blues
+
+artist=Reignwolf
+album=Are You Satisfied?
+track=Are You Satisfied?
+
+artist=Black Rebel Motorcycle Club
+album=Take Them On, On Your Own
+track=Stop
+
+artist=Black Rebel Motorcycle Club
+album=B.R.M.C.
+track=Salvation
+
+artist=Black Rebel Motorcycle Club
+album=B.R.M.C.
+track=Head Up High
+
+artist=Black Rebel Motorcycle Club
+album=B.R.M.C.
+track=Spread Your Love
+
+artist=Black Rebel Motorcycle Club
+album=B.R.M.C.
+track=Take My Time/Rifles
+
+artist=Black Rebel Motorcycle Club
+album=B.R.M.C.
+track=As Sure As The Sun
+
+artist=Black Rebel Motorcycle Club
+album=B.R.M.C.
+track=Awake
+
+artist=Black Rebel Motorcycle Club
+album=B.R.M.C.
+track=Whatever Happened To My Rock 'N' Roll (Punk Song)
+
+artist=Black Rebel Motorcycle Club
+album=B.R.M.C.
+track=Red Eyes And Tears
+
+artist=Radiohead
+album=Amnesiac
+track=Pyramid Song
+
+artist=DJ DIRTY J
+album=GO RILLA
+track=GO RILLA
+
+artist=Ramin Djawadi
+album=Westworld: Season 4 (Soundtrack from the HBO® Series)
+track=Pyramid Song
+
+artist=Barbatuques
+album=O Seguinte é Esse
+track=Baianá
+
+artist=The Zombies
+album=Odessey & Oracle - 40th Anniversary Concert (Live)
+track=Time Of The Season
+
+artist=The Zombies
+album=Odessey and Oracle (Mono Remastered)
+track=This Will Be Our Year - Mono Remastered
+
+artist=The Zombies
+album=Begin Here
+track=She's Not There
+
+artist=The Zombies
+album=Odessey and Oracle (Mono Remastered)
+track=Time of the Season - Mono Remastered
+
+artist=Caleb Bryant
+album=Imperium
+track=Imperium - Slowed
+
+artist=All The Reason
+album=Wait the Trap
+track=Wait the Trap
+
+artist=Atticus Rush
+album=IT'S NOT OUT THERE
+track=YOU HAVEN'T SEEN ANYTHING YET
+
+artist=Surprise Chef
+album=All News Is Good News
+track=Crayfish Caper
+
+artist=Jon Kennedy
+album=HA!
+track=Bats in the Belfry
+
+artist=Marc Rebillet
+album=Your New Morning Alarm
+track=Your New Morning Alarm
+
+artist=Saka
+album=Sable Valley Summer Vol. 3
+track=Artemis
+
+artist=Venjent
+album=Open the Door
+track=Flowin' with the Vibe
+
+artist=Hensonn
+album=Sahara
+track=Sahara
+
+artist=Red Hot Chili Peppers
+album=By the Way (Deluxe Edition)
+track=By the Way
+
+artist=Red Hot Chili Peppers
+album=Californication (Deluxe Edition)
+track=Otherside
+
+artist=Red Hot Chili Peppers
+album=Californication (Deluxe Edition)
+track=Californication
+
+artist=Red Hot Chili Peppers
+album=Californication (Deluxe Edition)
+track=Scar Tissue
+
+artist=Red Hot Chili Peppers
+album=By the Way (Deluxe Edition)
+track=Can't Stop
+
+artist=Red Hot Chili Peppers
+album=Return of the Dream Canteen
+track=Fake as Fu@k
+
+artist=The Zombies
+album=Time of the Season
+track=Time of the Season - Mono Version
+
+artist=Red Hot Chili Peppers
+album=Stadium Arcadium
+track=Dani California
+
+artist=Findlay
+album=Forgotten Pleasures
+track=Electric Bones
+
+artist=Findlay
+album=Forgotten Pleasures
+track=Greasy Love
+
+artist=Findlay
+album=Forgotten Pleasures
+track=Off & On
+
+artist=Massive Attack
+album=Mezzanine
+track=Angel
+
+artist=alt-J
+album=This Is All Yours
+track=Hunger of the Pine
+
+artist=alt-J
+album=An Awesome Wave
+track=Fitzpleasure
+
+artist=alt-J
+album=An Awesome Wave
+track=Breezeblocks
+
+artist=conscience
+album=FAMILY BUSINESS
+track=FAMILY BUSINESS
+
+artist=Pink Floyd
+album=The Dark Side of the Moon
+track=Time
+
+artist=Stephanie Hatzinikolis
+album=Mockingbird Days
+track=So High
+
+artist=Haus of Hekate
+album=Bitch, I Am a Witch
+track=Bitch, I Am a Witch
+
+artist=Asagaya
+album=The Light of the Dawn
+track=Elusive Delusive
+
+artist=Bonobo
+album=Days To Come
+track=Nightlite
+
+artist=alt-J
+album=An Awesome Wave
+track=Tessellate
+
+artist=Florence + The Machine
+album=Everybody Scream
+track=Everybody Scream
+
+artist=Caleb Bryant
+album=Imperium
+track=Imperium
+
+artist=Caleb Bryant
+album=Field of Dreams
+track=Field of Dreams - Slowed
+
+artist=Caleb Bryant
+album=Field of Dreams
+track=Field of Dreams
+
+artist=Caleb Bryant
+album=The Fallen (Slowed)
+track=The Fallen - Slowed
+
+artist=Caleb Bryant
+album=The Fallen
+track=The Fallen - Epic Version
+
+artist=Caleb Bryant
+album=Pacifica
+track=Pacifica
+
+artist=Caleb Bryant
+album=Imperius
+track=Imperius - Ultra Slowed
+
+artist=Caleb Bryant
+album=Imperius
+track=Imperius
+
+artist=Caleb Bryant
+album=Pacifica (with drums)
+track=Pacifica - with drums, slowed + reverb
+
+artist=Caleb Bryant
+album=Imperius
+track=Imperius - Slowed
+
+artist=Caleb Bryant
+album=The Fallen
+track=The Fallen
+
+artist=Caleb Bryant
+album=The Fallen
+track=The Fallen - Epic Version Slowed
+
+artist=Summoner
+album=Phoenix
+track=Phoenix
+
+artist=Summoner
+album=Phoenix
+track=Let the Light In
+
+artist=Summoner
+album=Atlantian
+track=Changing Tides
+
+artist=Wez Devine
+album=Fashion Is Funk
+track=Feel Good Funk
+
+artist=Guts
+album=Brand New Revolution - EP
+track=Didn’t I? (Guts Re-Edit)
+
+artist=Tame Impala
+album=Deadbeat
+track=Dracula
+
+artist=The Maneken
+album=Nova Era
+track=One-night Stand
+
+artist=The Maneken
+album=Nova Era
+track=В Моїм Серці
+
+artist=The Maneken
+album=Nova Era
+track=Until It's Over
+
+artist=The Maneken
+album=Nova Era
+track=Hedgehogs Love
+
+artist=The Maneken
+album=В Моїм Серці
+track=В Моїм Серці
+
+artist=Tame Impala
+album=Deadbeat
+track=My Old Ways
+
+artist=Andy Mineo
+album=II: The Sword
+track=Shame
+
+artist=RJD2
+album=Since We Last Spoke: Deluxe
+track=Since We Last Spoke
+
+artist=Belleruche
+album=The Express
+track=Anything You Want - Not That
+
+artist=Guts
+album=Paradise for All
+track=Ghetto in Paradise
+
+artist=The Beatles
+album=Abbey Road (Super Deluxe Edition)
+track=Something - Take 39 - Strings Only Instrumental
+
+artist=TOOL
+album=Fear Inoculum
+track=Pneuma
+
+artist=Chevelle
+album=Wonder What's Next (Expanded Edition)
+track=The Red
+
+artist=TOOL
+album=Lateralus
+track=Schism
+
+artist=TOOL
+album=Ænima
+track=Forty Six & 2
+
+artist=Bob Sinclar
+album=New New New (Remixes)
+track=New New New - Avicii Remix Extended
+
+artist=RAYE
+album=WHERE IS MY HUSBAND!
+track=WHERE IS MY HUSBAND!
+
+artist=Leftfield
+album=Rhythm and Stealth
+track=Rino's Prayer
+
+artist=Leftfield
+album=Rhythm and Stealth
+track=Dub Gussett
+
+artist=Sweet Tea
+album=Light In The Attic 10 Year Anniversary: Wendy Rene "After Laughter (Comes Tears)"
+track=After Laughter (Comes Tears) (Sweet Tea Cover)
+
+artist=Alex Maas
+album=Luca
+track=500 Dreams
+
+artist=Alex Maas
+album=Luca
+track=Slip Into
+
+artist=Alex Maas
+album=Luca
+track=Been Struggling
+
+artist=Alex Maas
+album=Levitation Sessions
+track=Too Much Hate - Levitation Sessions
+
+artist=UNEQUAL
+album=Step Ahead (Locust Ave Remix)
+track=Step Ahead - Locust Ave Remix
+
+artist=UNEQUAL
+album=Step Ahead
+track=Step Ahead
+
+artist=Iva Sativa
+album=Kanapel
+track=Kanapel - Qrawlly DnB Version
+
+artist=UNEQUAL
+album=Mothman (feat. Alex Maas)
+track=Mothman (feat. Alex Maas)
+
+artist=Pozle
+album=/headwar
+track=/headwar
+
+artist=Richard Carter
+album=HEAVEN
+track=HEAVEN
+
+artist=DeathbyRomy
+album=HOLLYWOOD FOREVER
+track=XXXHIBITIONIST
+
+artist=conscience
+album=HATE ONLINE
+track=HATE ONLINE
+
+artist=Able Heart
+album=I Believe It (1111Hz)
+track=I Believe It (1111Hz)
+
+artist=nate band
+album=Drugs I Like
+track=Drugs I Like
+
+artist=Hanumankind
+album=Lola's Chant
+track=Lola's Chant
+
+artist=Hanumankind
+album=Monsoon Season
+track=Monsoon Season
+
+artist=Sadfriendd
+album=Pumpfake
+track=Pumpfake
+
+artist=86LOVE
+album=NSFA
+track=NSFA
+
+artist=Joey Valence & Brae
+album=NO HANDS
+track=PACKAPUNCH (feat. Danny Brown)
+
+artist=The Kids
+album=ZOOM
+track=ZOOM
+
+artist=Pertinence
+album=UNAPOLOGETIC
+track=UNAPOLOGETIC
+
+artist=Chase & Status
+album=BACKBONE
+track=BACKBONE
+
+artist=NERO
+album=Innocence 2025
+track=Innocence 2025
+
+artist=The Kids
+album=Nirvana (God in Designer)
+track=Nirvana (God in Designer)
+
+artist=Joey Valence & Brae
+album=PUNK TACTICS
+track=HOOLIGANG
+
+artist=LYNY
+album=Section
+track=Section
+
+artist=Hanumankind
+album=Monsoon Season
+track=Reckless (feat. Denzel Curry)
+
+artist=Hanumankind
+album=Monsoon Season
+track=Big Dawgs (Remix) [with A$AP Rocky]
+
+artist=Hanumankind
+album=Monsoon Season
+track=Run It Up
+
+artist=Fred again..
+album=Victory Lap
+track=Victory Lap
+
+artist=Connor Price
+album=Spin The Globe
+track=Violet
+
+artist=Beastie Boys
+album=Hello Nasty (Deluxe Edition/Remastered)
+track=Intergalactic - Remastered 2009
+
+artist=Run The Jewels
+album=RTJ4
+track=ooh la la (feat. Greg Nice & DJ Premier)
+
+artist=Ugly Duckling
+album=Journey to Anywhere
+track=Eye on the Gold Chain
+
+artist=Beastie Boys
+album=Ill Communication
+track=Sabotage
+
+artist=Nas
+album=God's Son
+track=Get Down
+
+artist=Fred again..
+album=USB
+track=Victory Lap Five
+
+artist=JAŸ-Z
+album=Watch The Throne
+track=No Church In The Wild
+
+artist=Beastie Boys
+album=Ill Communication
+track=Flute Loop
+
+artist=Frizzy P & Mr Cole
+album=Ladi Dadi
+track=Blue
+
+artist=Nas
+album=Illmatic
+track=N.Y. State of Mind
+
+artist=Pertinence
+album=CHPT. 9: 4 MiLLiON PPL LiVE iN LOS ANGELES
+track=UPS / DOWNS
+
+artist=Metro Boomin
+album=HEROES & VILLAINS (Heroes Version)
+track=Superhero (Heroes & Villains) - Instrumental
+
+artist=攬佬SKAI ISYOURGOD
+album=八方來財(Stacks from All Sides)
+track=大展鴻圖(Blueprint Supreme)
+
+artist=O.C.
+album=Word...Life
+track=Time's Up
+
+artist=Desiigner
+album=New English
+track=Panda
+
+artist=Rick Ross
+album=Mastermind
+track=The Devil Is A Lie
+
+artist=Ice Cube
+album=War & Peace Vol. 2 (The Peace Disc)
+track=You Can Do It
+
+artist=DJ Shadow
+album=The Mountain Will Fall
+track=Nobody Speak
+
+artist=Dr. Octagon
+album=Dr. Octagonecologyst
+track=Blue Flowers
+
+artist=Oliver Tree
+album=Ugly is Beautiful
+track=Jerk
+
+artist=Phantogram
+album=Nightlife
+track=Don't Move
+
+artist=Phantogram
+album=Voices
+track=Fall In Love
+
+artist=Mustasch
+album=Latest Version of the Truth
+track=Bring Me Everyone
+
+artist=J-Walk
+album=Off Beat
+track=Honey Trap
+
+artist=Queens of the Stone Age
+album=Songs For The Deaf
+track=Song For The Dead
+
+artist=Aphrodite's Child
+album=6 6 6
+track=Aegian Sea
+
+artist=Platinum Moon
+album=The Pills
+track=The Pills
+
+artist=GG ГуляйГород
+album=Криниця
+track=Криниця
+
+artist=Vinícius de Moraes
+album=A Arte De Vinícius De Moraes
+track=Carta Ao Tom 74
+
+artist=Quarteto Em Cy
+album=Quarteto Em Cy
+track=Tudo Que Voce Podia Ser
+
+artist=Black Sun Empire
+album=Back Down
+track=Back Down
+
+artist=Chinese Man
+album=We've Been Here Before 2
+track=Hands of the Clock
+
+artist=Gary Numan
+album=Savage (Songs from a Broken World)
+track=My Name Is Ruin
+
+artist=Franz Ferdinand
+album=Take Me Out (Remixes)
+track=Take Me Out - Daft Punk Remix
+
+artist=Franz Ferdinand
+album=Take Me Out
+track=Take Me Out
+
+artist=ATLXS
+album=PASSO BEM SOLTO
+track=PASSO BEM SOLTO - Super Slowed
+
+artist=ATLXS
+album=PASSO BEM SOLTO
+track=PASSO BEM SOLTO - Slowed
+
+artist=The Charlatans
+album=Some Friendly and Greatest Hits Live at The Roundhouse
+track=The Only One I Know
+
+artist=half.cool
+album=EVERYTHING IS FINE WE R EXTREMELY HAPPY
+track=VIRTUAL ROAMING CHARGES
+
+artist=21 Savage
+album=american dream
+track=redrum
+
+artist=Melly Mike
+album=Young Black & Rich (Slowed)
+track=Young Black & Rich - Slowed
+
+artist=Melly Mike
+album=Young Black & Rich
+track=Young Black & Rich
+
+artist=Travis Scott
+album=ASTROWORLD
+track=SKELETONS
+
+artist=Tame Impala
+album=Lonerism
+track=Elephant
+
+artist=Tame Impala
+album=Currents
+track=Let It Happen
+
+artist=Tame Impala
+album=The Slow Rush
+track=Borderline
+
+artist=Tame Impala
+album=Currents
+track=The Less I Know The Better
+
+artist=ONUKA
+album=KOLIR
+track=ZENIT
+
+artist=Playboi Carti
+album=Whole Lotta Red
+track=New Tank
+
+artist=Amanati
+album=Medusa
+track=Medusa
+
+artist=MOLIY
+album=Shake It To The Max (Done With Ya Ex)
+track=Shake It To The Max (Done With Ya Ex)
+
+artist=Superior Motive
+album=Ancient Being
+track=Ancient Being
+
+artist=YONAKA
+album=PREDATOR
+track=PREDATOR
+
+artist=Shöckface
+album=HELIUM
+track=HELIUM
+
+artist=SOFIA ISELLA
+album=I Can Be Your Mother
+track=The Doll People
+
+artist=The Beatles
+album=With The Beatles (Remastered)
+track=Don't Bother Me - Remastered 2009
+
+artist=Future
+album=FUTURE
+track=Mask Off
+
+artist=Carlton Williams
+album=The "Selma" Album: A Musical Tribute To Dr. Martin Luther King, Jr.
+track=Prison Song
+
+artist=XXXTENTACION
+album=Look At Me!
+track=Look At Me!
+
+artist=Ivy Lab
+album=Orange
+track=Orange
+
+artist=Gesaffelstein
+album=Conspiracy Pt.2
+track=Opr
+
+artist=Shuba
+album=1st Gen
+track=1st Gen
+
+artist=Flawed Mangoes
+album=Anomaly III
+track=Surreal
+
+artist=Primal Scream
+album=Vanishing Point (Expanded Edition)
+track=Trainspotting
+
+artist=GEZWEIRDO
+album=WAKE UP
+track=WAKE UP
+
+artist=Fred again..
+album=leavemealone
+track=leavemealone
+
+artist=Alex Gaudino
+album=Destination Calabria
+track=Destination Calabria - Radio Edit
+
+artist=The Breeders
+album=Last Splash
+track=S.O.S.
+
+artist=The Pancakes
+album=Back to the 90s
+track=Renegade Master '98
+
+artist=Alps Cru
+album=The Classic Collection
+track=Just Can't Explain
+
+artist=A.D.O.R.
+album=The Concrete (25th Anniversary Edition)
+track=Let It All Hang Out
+
+artist=The UMC's
+album=Fruits Of Nature
+track=One To Grow On
+
+artist=A.D.O.R.
+album=The Concrete (25th Anniversary Edition)
+track=One for the Trouble
+
+artist=SNAP!
+album=The Madman's Return
+track=Rhythm Is a Dancer
+
+artist=Apashe
+album=Antagonist
+track=Gasoline
+
+artist=Apashe
+album=Antagonist
+track=King
+
+artist=TroyBoi
+album=V!BEZ, Vol. 4
+track=Bellz
+
+artist=WYR GEMI
+album=Black Samurai
+track=Black Samurai
+
+artist=Keys N Krates
+album=Double Dutch
+track=Double Dutch
+
+artist=Apashe
+album=Renaissance
+track=Legend
+
+artist=Apashe
+album=Renaissance
+track=Work
+
+artist=Apashe
+album=Renaissance
+track=Good News
+
+artist=Apashe
+album=Renaissance
+track=Distance
+
+artist=Apashe
+album=Renaissance
+track=Overture
+
+artist=Apashe
+album=Antagonist
+track=Fracture
+
+artist=Apashe
+album=Requiem
+track=Lacrimosa
+
+artist=DJMuchY
+album=4 FT
+track=4 FT
+
+artist=Fedde Le Grand
+album=Put Your Hands Up For Detroit
+track=Put Your Hands Up For Detroit - Dub Mix
+
+artist=Nightwish
+album=Once
+track=Ghost Love Score
+
+artist=Nightwish
+album=Over The Hills And Far Away
+track=Over The Hills And Far Away
+
+artist=Nightwish
+album=Century Child
+track=End Of All Hope
+
+artist=Nightwish
+album=Oceanborn
+track=Sleeping Sun
+
+artist=Nightwish
+album=Once
+track=Dark Chest of Wonders
+
+artist=Nightwish
+album=Once
+track=Nemo
+
+artist=Peggy Lee
+album=The Best Of Peggy Lee
+track=Fever
+
+artist=Nightwish
+album=Wishmaster
+track=Wishmaster
+
+artist=Sorana
+album=FEMiNiNE RAGE
+track=FEMiNiNE RAGE
+
+artist=JENNIE
+album=ExtraL (feat. Doechii)
+track=ExtraL (feat. Doechii)
+
+artist=Fatboy Slim
+album=You've Come a Long Way Baby
+track=The Rockafeller Skank
+
+artist=Fatboy Slim
+album=You've Come a Long Way Baby
+track=Right Here, Right Now
+
+artist=Fatboy Slim
+album=You've Come a Long Way Baby
+track=Praise You
+
+artist=5 Seconds of Summer
+album=CALM
+track=Teeth
+
+artist=Aaron Smith
+album=Dancin (feat. Luvli) [Krono Remix]
+track=Dancin (feat. Luvli) - Krono Remix
+
+artist=Fatboy Slim
+album=Palookaville (Deluxe)
+track=Push and Shove - Instrumental
+
+artist=Fatboy Slim
+album=Palookaville (Deluxe)
+track=Song for Chesh
+
+artist=Fatboy Slim
+album=Palookaville (Deluxe)
+track=The Journey
+
+artist=Fatboy Slim
+album=Palookaville (Deluxe)
+track=North West Three
+
+artist=Colosseum
+album=Valentyne Suite (Deluxe Expanded Edition)
+track=The Kettle
+
+artist=James Gang
+album=Rides Again
+track=Ashes The Rain And I
+
+artist=Just Brothers
+album=Sliced Tomatoes - EP
+track=Sliced Tomatoes
+
+artist=Leftfield
+album=Rhythm and Stealth
+track=Swords
+
+artist=Indian Ropeman
+album=Elephant Sound
+track=Indian Ropeman
+
+artist=PARTYOF2
+album=we owe you an explanation
+track=POSER
+
+artist=Colombo
+album=Abandoned Factory
+track=Molten Metal
+
+artist=Origin Unknown
+album=Valley of the Shadows
+track=Valley of the Shadows
+
+artist=Favi T
+album=Be Nice
+track=Be Nice
+
+artist=Wilkinson
+album=Back To Life (feat. Julia Church)
+track=Back To Life (feat. Julia Church)
+
+artist=Thievery Corporation
+album=Culture Of Fear
+track=Culture Of Fear
+
+artist=OneRepublic
+album=Native
+track=Counting Stars
+
+artist=Aim
+album=Cold Water Music
+track=Demonique
+
+artist=Danger Mouse
+album=Rome
+track=Two Against One (feat. Jack White)
+
+artist=Soap&Skin
+album=Sugarbread
+track=Me and the Devil
+
+artist=The Halluci Nation
+album=We Are the Halluci Nation
+track=R.E.D.
+
+artist=DJ Signify
+album=Of Cities
+track=1993
+
+artist=Petar Liondev
+album=Kafal Sviri
+track=Kaval Sviri
+
+artist=Arutnev Raleva
+album=Devils Bandit
+track=Devils Bandit
+
+artist=Sleepy Sun
+album=Fever
+track=Sandstorm Woman
+
+artist=Pavel Dovgal
+album=The Aura
+track=VHS - Outro ReEdit
+
+artist=Jel
+album=Soft Money
+track=Sweet Cream In It
+
+artist=Mononome
+album=Come Close
+track=Don't Come Back
+
+artist=Travelling Day
+album=Expedite
+track=Blue Road
+
+artist=LEISURE
+album=Leisure
+track=Got It Bad
+
+artist=JAŸ-Z
+album=Watch The Throne
+track=Why I Love You
+
+artist=Lew Sid
+album=Fried Rice
+track=Fried Rice
+
+artist=SAINt JHN
+album=Roses (Imanbek Remix)
+track=Roses (Imanbek Remix)
+
+artist=Timber Timbre
+album=Timber Timbre (Deluxe)
+track=Magic Arrow
+
+artist=UNKLE
+album=Where Did the Night Fall (Bonus Track Version)
+track=The Answer
+
+artist=N.A.S.A.
+album=The Spirit Of Apollo (10th Anniversary Special Edition)
+track=Way Down
+
+artist=Donna Summer
+album=I Remember Yesterday
+track=I Feel Love
+
+artist=Donna Summer
+album=Bad Girls
+track=Hot Stuff
+
+artist=KC & The Sunshine Band
+album=The TK Years
+track=Get Down Tonight
+
+artist=Wax Tailor
+album=B-Sides & Remixes (Bonus 2)
+track=There Is Danger - G Bonson Remix
+
+artist=Sepalot
+album=Black Sky
+track=Follow Me Down
+
+artist=PEEKABOO
+album=Here With Me
+track=Here With Me
+
+artist=Chinese Man
+album=Racing With the Sun
+track=Racing With the Sun
+
+artist=Levity
+album=Front to Back
+track=Front to Back
+
+artist=Bonobo
+album=Animal Magic
+track=Sugar Rhyme
+
+artist=Kognitif
+album=My Space World
+track=Strange Day
+
+artist=Bonobo
+album=Days To Come
+track=Between The Lines
+
+artist=Roger Molls
+album=The Man with Dusty Fingers VOL. 2
+track=Outroducing
+
+artist=Run The Jewels
+album=Run The Jewels 2
+track=Blockbuster Night Pt. 1
+
+artist=Nas
+album=Illmatic XX
+track=N.Y. State of Mind
+
+artist=iBenji
+album=Boom
+track=Boom
+
+artist=J-Walk
+album=A Night On The Rocks
+track=French Letter
+
+artist=Jel
+album=Soft Money
+track=Know You Don't
+
+artist=Q Funktion
+album=Matching Atoms
+track=One Day
+
+artist=J-Walk
+album=A Night On The Rocks
+track=Soul Vibration
+
+artist=The Kills
+album=Blood Pressures
+track=Future Starts Slow
+
+artist=Depeche Mode
+album=Spirit (Deluxe)
+track=Going Backwards
+
+artist=Brandon Clarke
+album=Fresh Out
+track=Fresh Out
+
+artist=Chet Faker
+album=Built On Glass
+track=Gold
+
+artist=Martha Reeves & The Vandellas
+album=The Ultimate Collection: Martha Reeves & The Vandellas
+track=Nowhere To Run
+
+artist=Phantogram
+album=Eyelid Movies
+track=When I'm Small
+
+artist=The Heavy
+album=The House That Dirt Built
+track=Short Change Hero
+
+artist=AWOLNATION
+album=Megalithic Symphony
+track=Sail
+
+artist=The Heavy
+album=That Kind Of Man
+track=Coleen
+
+artist=Jacob Banks
+album=Worthy
+track=Worthy
+
+artist=JD McPherson
+album=Signs & Signifiers
+track=A Gentle Awakening
+
+artist=Black Rebel Motorcycle Club
+album=Beat the Devil's Tattoo
+track=Beat The Devil's Tattoo
+
+artist=The Heavy
+album=The Glorious Dead
+track=Can't Play Dead
+
+artist=alt-J
+album=An Awesome Wave (Deluxe Version)
+track=Fitzpleasure
+
+artist=Hit Back
+album=Who Are These Weird Old Kids
+track=Afternoon
+
+artist=Junip
+album=Fields
+track=Without You
+
+artist=Gotye
+album=Making Mirrors
+track=Smoke And Mirrors
+
+artist=Phoenix
+album=Wolfgang Amadeus Phoenix
+track=Love Like a Sunset Part I
+
+artist=Nicola Conte
+album=Jet Sounds
+track=Bossa Per Due
+
+artist=Charles Bradley
+album=No Time For Dreaming
+track=The World (Is Going Up In Flames)
+
+artist=Astrud Gilberto
+album=Verve Remixed 3
+track=The Gentle Rain - RJD2 Remix
+
+artist=My Morning Jacket
+album=Circuital
+track=Holdin On To Black Metal
+
+artist=The Album Leaf
+album=A Chorus of Storytellers
+track=Blank Pages
+
+artist=The xx
+album=xx
+track=Intro
+
+artist=The Constellations
+album=Southern Gothic
+track=Perfect Day
+
+artist=Sea Wolf
+album=Leaves In The River
+track=You're A Wolf
+
+artist=The Black Keys
+album=Brothers
+track=Howlin’ For You
+
+artist=The Swinging Suits
+album=Greenback Boogie - Suits Theme Song
+track=Greenback Boogie - Suits Theme Song
+
+artist=Adam Lambert
+album=The Original High
+track=Ghost Town
+
+artist=Radiohead
+album=In Rainbows
+track=15 Step
+
+artist=Malukah
+album=The Dragonborn Comes (From "The Elder Scrolls V: Skyrim")
+track=The Dragonborn Comes
+
+artist=Simon & Garfunkel
+album=Parsley, Sage, Rosemary And Thyme
+track=Scarborough Fair / Canticle
+
+artist=Dream Mclean
+album=All Trap Music
+track=Network - Chase & Status Remix
+
+artist=Baauer
+album=Fueled By Yogurt
+track=Fueled By Yogurt
+
+artist=SOFI TUKKER
+album=The New Pope (Original Soundtrack from the HBO Series)
+track=Good Time Girl (feat. Charlie Barker)
+
+artist=Lele Marchitelli
+album=The Young Pope (Original Score)
+track=Later
+
+artist=Lele Marchitelli
+album=The Young Pope (Original Score)
+track=Hair
+
+artist=Hans Zimmer
+album=Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]
+track=Day One Dark
+
+artist=ABBA
+album=ABBA Gold
+track=SOS
+
+artist=ABBA
+album=Abba
+track=Mamma Mia
+
+artist=ABBA
+album=Arrival
+track=Dancing Queen
+
+artist=Madonna
+album=Ray of Light
+track=The Power of Good-Bye
+
+artist=Madonna
+album=Frozen
+track=Frozen
+
+artist=Madonna
+album=Celebration (double disc version)
+track=4 Minutes (feat. Justin Timberlake & Timbaland)
+
+artist=Madonna
+album=Confessions on a Dance Floor
+track=Hung Up
+
+artist=Madonna
+album=Music
+track=Music
+
+artist=ABBA
+album=Voulez-Vous
+track=Gimme! Gimme! Gimme! (A Man After Midnight)
+
+artist=Metro Boomin
+album=HEROES & VILLAINS (Heroes Version)
+track=Superhero (Heroes & Villains) - Instrumental
+
+artist=Portugal. The Man
+album=Woodstock
+track=Live in the Moment
+
+artist=Portugal. The Man
+album=Woodstock
+track=Feel It Still
+
+artist=LP Giobbi
+album=Bittersweet
+track=Bittersweet
+
+artist=GG ГуляйГород
+album=Тиха-тиха
+track=Тиха-тиха
+
+artist=GG ГуляйГород
+album=Сон
+track=Сон
+
+artist=Booka Shade
+album=Link To The Invisible
+track=No Memory
+
+artist=DJ KRUSH
+album=The Man From Mo’ Wax (Original Motion Picture Soundtrack)
+track=Kemuri
+
+artist=RAYE
+album=Genesis.
+track=Genesis, pt. ii
+
+artist=Flo Rida
+album=Right Round (feat. Ke$ha)
+track=Right Round (feat. Ke$ha)
+
+artist=Sixfingerz
+album=Midnight Finger Gymnastics
+track=Shanghai Showdown
+
+artist=Metaform
+album=The Electric Mist
+track=It's Gotta Be
+
+artist=Metaform
+album=Goodbye Tonight
+track=Goodbye Tonight
+
+artist=Glen Porter
+album=Falling Down
+track=Last Call
+
+artist=Method Man
+album=Jeep Beats (Instrumental Version)
+track=Release Yo' Delf - Prodigy Instrumental
+
+artist=Glen Porter
+album=Departures - Volume 1
+track=Donna
+
+artist=Sixfingerz
+album=Street Bangerz Volume 9
+track=Downfall
+
+artist=Nina Simone
+album=Sinnerman (Sofi Tukker Remix)
+track=Sinnerman - Sofi Tukker Remix
+
+artist=Q Funktion
+album=Like I Usually Do
+track=Like I Usually Do
+
+artist=Becky Hill
+album=Disconnect
+track=Disconnect
+
+artist=Rihanna
+album=Unapologetic (Deluxe)
+track=Stay
+
+artist=The Velvet Underground
+album=The Velvet Underground & Nico 45th Anniversary
+track=Venus In Furs
+
+artist=Twenty One Pilots
+album=Overcompensate
+track=Overcompensate (edit)
+
+artist=PEEKABOO
+album=Eyes Wide Open
+track=BADDERS
+
+artist=Incredible Bongo Band
+album=40 Years of the Incredible Bongo Band
+track=Apache
+
+artist=Blosso
+album=Circus Four
+track=Servant
+
+artist=The Living Proof
+album=Circus Four
+track=Solid Ground
+
+artist=Flux Pavilion
+album=Circus Four
+track=Bigger Than Bad
+
+artist=WHOiSEE
+album=Circus Four
+track=Prime Time
+
+artist=Skrillex
+album=Quest For Fire
+track=Rumble
+
+artist=Jungle
+album=Volcano
+track=Back On 74
+
+artist=Dday One
+album=Journal | Extended
+track=Contaminated Energy
+
+artist=Quantic
+album=The 5th Exotic
+track=Meaning
+
+artist=The Geek x Vrv
+album=Btos, Vol. 4
+track=Fluctuat Nec Mergitur
+
+artist=Onra
+album=Chinoiseries pt 2
+track=Where I'm From
+
+artist=Rob Viktum
+album=Progress 2
+track=2/9/1999
+
+artist=Kill Emil
+album=Lights & Shadows
+track=Winter Breeze
+
+artist=Kill Emil
+album=Lights & Shadows
+track=Emptyness (feat. Hashfinger)
+
+artist=Onra
+album=Chinoiseries pt 2
+track=Ms. Ho
+
+artist=Up, Bustle & Out
+album=One Colour Just Reflects Another
+track=Ninja's Principality
+
+artist=Kill Emil
+album=Salvation
+track=Give Up
+
+artist=Metaform
+album=Beats From The Crypt: Early Works
+track=The Fourth Man
+
+artist=Metaform
+album=Standing on the Shoulders of Giants
+track=Heaven Can Wait
+
+artist=Metaform
+album=Standing on the Shoulders of Giants
+track=The Telephone
+
+artist=Metaform
+album=Standing on the Shoulders of Giants
+track=Brick and Mortar
+
+artist=Metaform
+album=The Electric Mist
+track=Pop the Trunk
+
+artist=Jon Kennedy
+album=We're Just Waiting for You Now
+track=The Messenger
+
+artist=Dday One
+album=Dialogue With Life
+track=Towards The Roar
+
+artist=Amon Tobin
+album=Foley Room
+track=Always
+
+artist=Sixtoo
+album=Chewing On Glass & Other Miracle Cures
+track=Chewing on Glass
+
+artist=Metaform
+album=Beats From The Crypt: Early Works
+track=Rags To Dust
+
+artist=Sixtoo
+album=Jackals and Vipers in Envy of Man
+track=Part 1
+
+artist=Long Arm
+album=The Branches (Deluxe Edition)
+track=Power of Rain
+
+artist=Onra
+album=Chinoiseries Pt.3
+track=Memories From 1968
+
+artist=The Sound Defects
+album=Volume 2
+track=Dust
+
+artist=Sixtoo
+album=Duration
+track=Broken Monitor
+
+artist=Sixtoo
+album=Jackals and Vipers in Envy of Man
+track=Part 6
+
+artist=Sixtoo
+album=Duration
+track=Duration Part Eight
+
+artist=Sixtoo
+album=Jackals and Vipers in Envy of Man
+track=Part 5
+
+artist=Sixtoo
+album=Duration
+track=Duration Part One
+
+artist=Buck
+album=Anticon Presents: Music for the Advancement of Hip Hop
+track=Holy Shit!
+
+artist=CUTS
+album=Ex Machina (Original Motion Picture Soundtrack)
+track=Bunsen Burner
+
+artist=Frenic
+album=Dr. DAD
+track=Monkey Stones
+
+artist=Sixtoo
+album=Chewing On Glass & Other Miracle Cures
+track=Boxcutter Emporium Part 3
+
+artist=Dday One
+album=Journal | Extended
+track=Rhythm Section
+
+artist=Ancient Astronauts
+album=We Stand Our Ground (Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina)
+track=The Lone Patrol
+
+artist=The Dining Rooms
+album=Numero Deux
+track=Pure Easy
+
+artist=Jake One
+album=White Van Music (Instrumental Version)
+track=Trap Door - Instrumental
+
+artist=Glen Porter
+album=Blessed By a Young Death
+track=Transient
+
+artist=Asagaya
+album=The Light of the Dawn
+track=Washy P
+
+artist=Karavan
+album=Karavan
+track=East
+
+artist=Inf
+album=The Go Round
+track=Mystic Moods
+
+artist=Roger Molls
+album=Metamorphosis Of Muses
+track=The Phonograph feat. Above Ave
+
+artist=TRDMRK
+album=TRDMRK
+track=Hands Up
+
+artist=Mothra
+album=Removement
+track=Spent
+
+artist=Rob Viktum
+album=Progress 2
+track=4/15/1998
+
+artist=Ancient Astronauts
+album=Broken Puppets (Instrumental)
+track=False Charges - Instrumental
+
+artist=Astronautalis
+album=Cut the Body Loose
+track=Kurt Cobain
+
+artist=SOVE MAX
+album=Pullin Up
+track=Pullin Up
+
+artist=Ragga Twins
+album=Trippin & Bunnin (Fat Controller Mix)
+track=Trippin & Bunnin - Fat Controller Mix
+
+artist=Chase & Status
+album=What Came Before
+track=Censor (feat. Popcaan & IRAH)
+
+artist=Friction
+album=Dare EP
+track=Find Our Way
+
+artist=NERO
+album=Welcome Reality +
+track=Me And You
+
+artist=Concord Dawn
+album=Uprising
+track=Tonite
+
+artist=Jinn
+album=GALZ XYPHER COCONA (Remix)
+track=GALZ XYPHER COCONA - Remix
+
+artist=Q-Project
+album=30 Years of Rage
+track=Champion Sound
+
+artist=The Buttress
+album=Brutus (Instrumental)
+track=Brutus (Instrumental)
+
+artist=DJ Shadow
+album=Endtroducing.....
+track=The Number Song
+
+artist=Zerb
+album=SURRENDER
+track=Mwaki
+
+artist=Daft Punk
+album=TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)
+track=Derezzed
+
+artist=Caleb Bryant
+album=The Fallen
+track=The Fallen (Epic Version)
+
+artist=Caleb Bryant
+album=The Fallen (Slowed)
+track=The Fallen - Slowed
+
+artist=Kenya Grace
+album=Strangers
+track=Strangers
+
+artist=Witchz
+album=The Wikked
+track=The Wikked
+
+artist=Witchz
+album=Im Fine
+track=Im Fine
+
+artist=Witchz
+album=The Magick
+track=The Magick
+
+artist=Witchz
+album=THE MASTER
+track=THE MASTER
+
+artist=O.C.
+album=Word...Life (Deluxe Edition)
+track=Time's Up - Instrumental
+
+artist=O.C.
+album=Word...Life (Deluxe Edition)
+track=Time's Up
+
+artist=ZOID LAND
+album=midnight sun (ramzoid x hal walker)
+track=midnight sun (ramzoid x hal walker)
+
+artist=Chase & Status
+album=Baddadan (feat. IRAH, Flowdan, Trigga & Takura)
+track=Baddadan (feat. IRAH, Flowdan, Trigga & Takura)
+
+artist=Lil Wayne
+album=Tha Carter V
+track=Uproar
+
+artist=Panda Dub
+album=Shapes and Shadows
+track=J'finirai Seul Dans un Coquillage
+
+artist=Russ
+album=Brooklyn Freestyle
+track=Brooklyn Freestyle
+
+artist=KUSO GVKI
+album=Kuso Gvki
+track=Love You
+
+artist=Mr. Carmack
+album=Demolish
+track=Goddamnit Golda
+
+artist=Q Funktion
+album=Like I Usually Do
+track=Song For Her Joy
+
+artist=The Geek x Vrv
+album=Beats Of
+track=If You Want Her
+
+artist=The Geek x Vrv
+album=Btos, Vol. 4
+track=Subway
+
+artist=Anderson .Paak
+album=Bubblin
+track=Bubblin
+
+artist=Phoebe Killdeer
+album=Innerquake
+track=The Fade Out Line
+
+artist=Klint
+album=Diamond
+track=Diamond
+
+artist=Lorde
+album=Supercut (El-P Remix)
+track=Supercut - El-P Remix
+
+artist=Beastie Boys
+album=Check Your Head (Deluxe Edition/Remastered/2009)
+track=Jimmy James - Remastered 2009
+
+artist=Turntill
+album=TCF Rock Riddim (Remixed)
+track=Rub a Dub Party - The Niceguys Remix
+
+artist=Blues Pills
+album=Blues Pills
+track=Little Sun
+
+artist=$uicideboy$
+album=High Tide in the Snake's Nest
+track=Ugly
+
+artist=Andy Mineo
+album=Coming In Hot
+track=Coming In Hot
+
+artist=DJariium
+album=BURN
+track=BURN
+
+artist=SZA
+album=Kill Bill (feat. Doja Cat)
+track=Kill Bill (feat. Doja Cat)
+
+artist=Saint Mesa
+album=Lion
+track=Lion
+
+artist=Skryptcha
+album=Left to Write
+track=Runnin' away
+
+artist=Jay Rock
+album=Redemption
+track=WIN
+
+artist=Amon Tobin
+album=Out From Out Where
+track=Verbal
+
+artist=Take/Five
+album=Hertz.
+track=Medicine
+
+artist=Dxrk ダーク
+album=RAVE
+track=RAVE
+
+artist=Trinix
+album=Tainted Love
+track=Tainted Love
+
+artist=The All Seeing I
+album=Pickled Eggs and Sherbet
+track=Beat Goes On
+
+artist=TheFatRat
+album=Xenogenesis
+track=Xenogenesis
+
+artist=Little Simz
+album=GREY Area
+track=Venom
+
+artist=Lil Nas X
+album=7
+track=Bring U Down
+
+artist=Labrinth
+album=Imagination & the Misfit Kid
+track=Mount Everest
+
+artist=Doja Cat
+album=Boss Bitch
+track=Boss Bitch
+
+artist=Armani White
+album=BILLIE EILISH.
+track=BILLIE EILISH.
+
+artist=Lil Nas X
+album=MONTERO
+track=MONTERO (Call Me By Your Name)
+
+artist=Sam Smith
+album=Unholy (feat. Kim Petras)
+track=Unholy (feat. Kim Petras)
+
+artist=Phon.o
+album=Modeselektor proudly presents Modeselektion, Vol. 2
+track=Fukushima
+
+artist=Childish Gambino
+album=This Is America
+track=This Is America
+
+artist=Kiko King & creativemaze
+album=Gnothi Seauton
+track=Resolution for Solitude
+
+artist=Gorillaz
+album=Gorillaz
+track=Sound Check (Gravity)
+
+artist=Gorillaz
+album=Gorillaz
+track=Clint Eastwood
+
+artist=Gorillaz
+album=Demon Days
+track=Kids with Guns
+
+artist=Glen Porter
+album=Open Road And The Smell Of Blood
+track=Hang Em High
+
+artist=Glen Porter
+album=Falling Down
+track=5AM
+
+artist=Ramson Badbonez
+album=A Year in the Life of Oscar the Slouch
+track=February - Whateva Da Weatha
+
+artist=Big Sean
+album=Dark Sky Paradise
+track=Blessings
+
+artist=Backini
+album=Re:creation
+track=Electro Industry
+
+artist=E-40
+album=Sharp On All 4 Corners (Deluxe Edition)
+track=Choices (Yup)
+
+artist=Kelis
+album=Tasty
+track=Milkshake
+
+artist=Aim
+album=Cold Water Music
+track=Underground Crown Holders
+
+artist=Allah-Las
+album=Allah-Las
+track=Long Journey
+
+artist=Ladytron
+album=Velocifero
+track=Burning Up
+
+artist=Rose Windows
+album=The Sun Dogs
+track=The Sun Dogs I: Spirit Modules
+
+artist=The Chapu
+album=La Danza
+track=La Segunda Nostalgia
+
+artist=Rose Windows
+album=The Sun Dogs
+track=Native Dreams
+
+artist=Asian Dub Foundation
+album=Rafi's Revenge
+track=Culture Move
+
+artist=Headnodic
+album=Red Line Radio
+track=Movin' On Up feat. Latyrx (aka Lateef the Truth Speaker & Lyrics Born) & Kat ((O1O))
+
+artist=Senbeï
+album=Trouble Toys
+track=Dreudon
+
+artist=Skinnyman
+album=Council Estate Of Mind
+track=I'll Be Surprised
+
+artist=Simon Begg
+album=Bootleg Beats
+track=Phunky Fanfare
+
+artist=Little People
+album=Unreleased Bits & Pieces, Pt. 2
+track=Start Shootin' - Americana Remix
+
+artist=Natural Child
+album=For the Love of the Game
+track=DTV
+
+artist=Sldghmr
+album=Defenders Of Disco
+track=Open The Gates
+
+artist=Ugly Duckling
+album=Journey To Anywhere
+track=Eye on the Gold Chain
+
+artist=Paper Tiger
+album=Made Like Us
+track=The Bully Plank
+
+artist=Dr. Octagon
+album=Dr. Octagonecologyst
+track=Blue Flowers
+
+artist=DJ Zinc
+album=Super Sharp Shooter EP
+track=Super Sharp Shooter
+
+artist=Map Of Africa
+album=Late Night Tales: Django Django
+track=Bone
+
+artist=Aceyalone
+album=Magnificent City
+track=Disconnected
+
+artist=Marlena Shaw
+album=The Spice Of Life
+track=California Soul
+
+artist=DJ Yoda
+album=Chop Suey
+track=Big Trouble in Little China
+
+artist=The Q4
+album=Darker Days
+track=Beer Goggle Blues
+
+artist=Michal Menert
+album=Even If It Isn't Right
+track=Out of This World (Co-Produced By SuperVision)
+
+artist=Lil Nas X
+album=7
+track=Rodeo
+
+artist=Aphrodite's Child
+album=6 6 6
+track=The Four Horsemen
+
+artist=Action Bronson
+album=Mr. Wonderful
+track=Easy Rider
+
+artist=Black Sabbath
+album=Master of Reality (2009 Remastered Version)
+track=Solitude
+
+artist=Mary J. Blige
+album=Strength Of A Woman
+track=Love Yourself
+
+artist=DJ Maestro
+album=Ibiza Poolside 2016
+track=Plain Gold Ring - Fab Samperi Remix
+
+artist=UNKLE
+album=Unkle Sounds, Vol. 1
+track=Restless - 16 Bit Lolitas Remix
+
+artist=Scratch Massive
+album=Nuit de Rêve
+track=Waiting for a sign
+
+artist=Method Man
+album=Tical (Deluxe Edition)
+track=Release Yo' Delf - Prodigy Mix
+
+artist=Asagaya
+album=The Light of the Dawn
+track=The Nature Creature
+
+artist=2 Bad Mice
+album=Smi)e Mix Session 3: A Breakbeat Odyssey
+track=Waremouse
+
+artist=Depth Charge
+album=Shaolin Buddha Finger
+track=Shaolin Buddha Finger - Single Version
+
+artist=Klute
+album=Music for Prophet
+track=Ashram
+
+artist=The Supermen Lovers
+album=Starlight
+track=Starlight - Radio Edit
+
+artist=Desiigner
+album=Panda
+track=Panda
+
+artist=Martin Solveig
+album=Intoxicated
+track=Intoxicated
+
+artist=Spindrift
+album=Classic Soundtracks, Vol. 1
+track=Red Reflection
+
+artist=Sixfingerz
+album=Street Bangerz Volume 9
+track=Turn Your Lamp Down Low
+
+artist=Phon.o
+album=Modeselektion Vol. 02
+track=Fukushima
+
+artist=Calyx & TeeBee
+album=All or Nothing
+track=Pure Gold - feat. Kemo
+
+artist=UNKLE
+album=Psyence Fiction
+track=Unreal
+
+artist=Fatboy Slim
+album=You've Come a Long Way Baby (10th Anniversary Edition)
+track=Acid 8000
+
+artist=Jakwob
+album=Fade (Sane Beats Remix)
+track=Fade - Sane Beats Remix
+
+artist=Amon Tobin
+album=Foley Room
+track=At The End Of The Day
+
+artist=Amon Tobin
+album=Permutation
+track=Bridge
+
+artist=Amon Tobin
+album=Supermodified
+track=Slowly
+
+artist=The Weeknd
+album=After Hours
+track=Blinding Lights
+
+artist=The Carters
+album=EVERYTHING IS LOVE
+track=APESHIT
+
+artist=Paul Kalkbrenner
+album=No Goodbye
+track=No Goodbye
+
+artist=Ancient Astronauts
+album=Themes from Tomorrowland
+track=Give It to You - FLeCK Remix
+
+artist=Lorde
+album=Pure Heroine
+track=Royals
+
+artist=Dave Brubeck
+album=Dave Brubeck's Greatest Hits
+track=Take Five
+
+artist=Radio Citizen
+album=Berlin Serengeti
+track=The Hop
+
+artist=Guts
+album=Hip Hop After All
+track=Want It Back
+
+artist=Jon Kennedy
+album=Corporeal
+track=Boom Clack
+
+artist=Ancient Astronauts
+album=Best of 2001 - 2011
+track=Return to Blackspin
+
+artist=Ancient Astronauts
+album=We Are to Answer
+track=Classic
+
+artist=Travis Scott
+album=HIGHEST IN THE ROOM
+track=HIGHEST IN THE ROOM
+
+artist=My Morning Jacket
+album=Circuital
+track=Victory Dance
+
+artist=SHAED
+album=Trampoline (Jauz Remix)
+track=Trampoline - Jauz Remix
+
+artist=Run The Jewels
+album=Run the Jewels 2
+track=Close Your Eyes (And Count to Fuck)
+
+artist=Public Enemy
+album=How You Sell Soul to a Soulless People Who Sold Their Soul?
+track=Harder Than You Think
+
+artist=Jeanne Added
+album=Be Sensational
+track=A War Is Coming
+
+artist=A$AP Ferg
+album=Still Striving
+track=Plain Jane
+
+artist=Amerie
+album=Because I Love It
+track=Gotta Work
+
+artist=Blue Öyster Cult
+album=Agents Of Fortune
+track=(Don't Fear) The Reaper
+
+artist=Tame Impala
+album=Currents
+track=New Person, Same Old Mistakes
+
+artist=Portishead
+album=Dummy
+track=Numb
+
+artist=The Royal Capital
+album=Fallen Apart
+track=Protection
+
+artist=Jungle
+album=For Ever
+track=Happy Man
+
+artist=Jungle
+album=Jungle
+track=Busy Earnin'
+
+artist=HOSH
+album=Midnight (The Hanging Tree)
+track=Midnight (The Hanging Tree)
+
+artist=Delta Goodrem
+album=Wings of the Wild
+track=The River
+
+artist=Raphael Saadiq
+album=Stone Rollin'
+track=Good Man
+
+artist=Ice Cube
+album=At Tha Movies
+track=You Can Do It
+
+artist=Jamie xx
+album=In Colour
+track=Gosh
+
+artist=TOBACCO
+album=Ultima II Massage
+track=Father Sister Berzerker
+
+artist=The Moody Blues
+album=Nights In White Satin
+track=Nights In White Satin
+
+artist=The Heavy
+album=The Glorious Dead
+track=What Makes A Good Man?
+
+artist=Rico Nasty
+album=Anger Management
+track=Big Titties (feat. Baauer and EarthGang)
+
+artist=Baauer
+album=PLANET'S MAD (GLOBE'S CRAZY)
+track=TRIBAL HIT
+
+artist=Dream Mclean
+album=Greyscale
+track=Bastard
+
+artist=GAUPA
+album=GAUPA
+track=Febersvan
+
+artist=The Avener
+album=The Wanderings Of The Avener
+track=Panama
+
+artist=The Avener
+album=TOP OF THE SPOT Musica & Pubblicità in TV 80's / 90's Vol.1
+track=Fade Out Lines
+
+artist=The Avener
+album=The Wanderings Of The Avener
+track=Fade Out Lines - The Avener Rework
+
+artist=DMX
+album=DMX: The Ruff Ryder
+track=Ruff Ryders' Anthem
+
+artist=The Meters
+album=The Meters
+track=Cissy Strut
+
+artist=Run The Jewels
+album=Run The Jewels 2
+track=Blockbuster Night, Pt. 1
+
+artist=DJ Shadow
+album=The Mountain Will Fall
+track=Nobody Speak
+
+artist=Bonobo
+album=The North Borders
+track=Cirrus
+
+artist=CamelPhat
+album=Cola
+track=Cola
+
+artist=United Idol
+album=Ke Cap Gap Ba Gia
+track=Ke Cap Gap Ba Gia
+
+artist=Royal Blood
+album=Royal Blood
+track=Little Monster
+
+artist=Rick Ross
+album=Mastermind (Deluxe)
+track=The Devil Is A Lie
+
+artist=The Tremeloes
+album=What a State I'm In: The Psych-Pop Sessions
+track=On Love
+
+artist=El Michels Affair
+album=Enter The 37th Chamber
+track=Shimmy Shimmy Ya
+
+artist=1000mods
+album=Youth of Dissent
+track=Mirrors
+
+artist=1000mods
+album=Youth of Dissent
+track=Young
+
+artist=1000mods
+album=Youth of Dissent
+track=Dear Herculine
+
+artist=Gramatik
+album=SB3
+track=Muy Tranquilo
+
+artist=Radiohead
+album=Kid A
+track=Everything In Its Right Place
+
+artist=Beyoncé
+album=BLACK PARADE
+track=BLACK PARADE
+
+artist=Mustasch
+album=Ratsafari
+track=6:36
+
+artist=Black Rebel Motorcycle Club
+album=B.R.M.C.
+track=Spread Your Love
+
+artist=Gnarls Barkley
+album=The Odd Couple
+track=Run (I'm a Natural Disaster) - Instrumental
+
+artist=Justice
+album=Audio, Video, Disco.
+track=New Lands
+
+artist=Justice
+album=Justice
+track=Phantom Pt. II
+
+artist=Erik Satie
+album=Satie: Works for Piano
+track=Gnossiennes: No. 1, Lent
+
+artist=Tim Deluxe
+album=It Just Won't Do
+track=It Just Won't Do - Radio Edit
+
+artist=deadmau5
+album=5 years of mau5
+track=Ghosts ‘n’ Stuff - NERO Remix
+
+artist=Mustasch
+album=Thank You for the Demon
+track=Thank You for the Demon
+
+artist=Mustasch
+album=Thank You for the Demon
+track=All My Life
+
+artist=Galleon
+album=Galleon
+track=So, I Begin
+
+artist=The Glitch Mob
+album=We Can Make the World Stop - EP
+track=We Can Make The World Stop
+
+artist=GusGus
+album=Lies Are More Flexible
+track=Lies Are More Flexible
+
+artist=Axwell
+album=Floorfillers Club Anthems
+track=I Found U - Radio Edit
+
+artist=JVLA
+album=Such a Whore (Stellular Remix)
+track=Such a Whore (Stellular Remix)
+
+artist=trentemøller
+album=Into The Great Wide Yonder
+track=Silver Surfer, Ghost Rider Go!!!
+
+artist=Rae Sremmurd
+album=SremmLife 2 (Deluxe)
+track=Black Beatles
+
+artist=Robin Schulz
+album=Sugar
+track=Sugar (feat. Francesco Yates)
+
+artist=Chris Brown
+album=2010s Hits
+track=Beautiful People
+
+artist=David Guetta
+album=One Love (New Version)
+track=Memories (feat. Kid Cudi)
+
+artist=Take/Five
+album=Sines.
+track=Interstellar
+
+artist=Take/Five
+album=Apollo
+track=Apollo
+
+artist=Take/Five
+album=Midnight
+track=Magic Flute
+
+artist=Take/Five
+album=Ghosts
+track=Ghosts
+
+artist=Limp Bizkit
+album=Chocolate Starfish And The Hot Dog Flavored Water
+track=Full Nelson
+
+artist=Limp Bizkit
+album=The Unquestionable Truth (Pt. 1)
+track=The Truth
+
+artist=Limp Bizkit
+album=Gold Cobra (Deluxe)
+track=Bring It Back
+
+artist=Limp Bizkit
+album=Results May Vary
+track=Eat You Alive
+
+artist=Limp Bizkit
+album=Chocolate Starfish And The Hot Dog Flavored Water
+track=Boiler
+
+artist=Take/Five
+album=Elephant Bird
+track=Elephant Bird
+
+artist=Shocking Blue
+album=Greatest Hits Of Shocking Blue
+track=Send Me A Postcard
+
+artist=Kendrick Lamar
+album=DAMN.
+track=DNA.
+
+artist=Killing Joke
+album=Night Time
+track=Eighties - 2007 Digital Remaster
+
+artist=Hucci
+album=Novacane
+track=Ball So Hard
+
+artist=Flosstradamus
+album=Fool's Gold Clubhouse Vol. 2
+track=Roll Up - Bauuer Remix
+
+artist=Swod
+album=Gehen
+track=Attends
+
+artist=Cross My Heart Hope To Die
+album=Vita E Morte
+track=Tears of God
+
+artist=Soul II Soul
+album=Keep On Movin'
+track=Back To Life
+
+artist=Rihanna
+album=ANTI
+track=Desperado
+
