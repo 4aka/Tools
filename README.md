@@ -13,3 +13,6 @@
 #### - Get API key on dev Spotify.com. Put into ...spotify.properties
 ### - run Main.java
 ##----------------------------------------------------------------------
+### Project: Any image to icon file
+#### - Place file into project dir.
+### - Run run.bat
