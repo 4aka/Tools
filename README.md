@@ -4,15 +4,19 @@
 #### - Place mp3 files into project dir. Run converter.bat
 ##----------------------------------------------------------------------
 ### Project: pdf2md
-#### - Place pdf file into project dir. Run convert.bat
+#### - Place PDF file into project dir. Run convert.bat
 ##----------------------------------------------------------------------
 ### Project: resize-tool
 #### - Place files into project dir. Run resize_all.bat
 ##----------------------------------------------------------------------
 ### Project: Spotify - favorites backup
 #### - Get API key on dev Spotify.com. Put into ...spotify.properties
-### - run Main.java
+### - Start Main.java
 ##----------------------------------------------------------------------
 ### Project: Any image to icon file
 #### - Place file into project dir.
-### - Run run.bat
+### - Start run.bat
+##----------------------------------------------------------------------
+### Project: FB2 reader
+#### - Start run.bat
+### - Choose a book
